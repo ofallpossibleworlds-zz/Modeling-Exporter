@@ -8,3 +8,5 @@ public license, the algorithm itself was not, and will not appear here.
 This application is intended to read and write files for the algorithm, but could be modified for many applications involving
 pCLAMP software and file types. Please feel free to contact me if you have questions about how it reads or stores the pCLAMP
 data, or how to modify it for your own use.
+
+This project depends on the qwt plotting widget for Qt Creator, which can be found at http://qwt.sourceforge.net/
